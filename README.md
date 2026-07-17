@@ -1,2 +1,5 @@
 # AGENTE_INFECCIOSO
 O projeto Operação: Qual o Agente Infeccioso? foi desenvolvido para funcionar como uma atividade de revisão dos conteúdos de Microbiologia estudados em Ciências, utilizando uma abordagem interdisciplinar baseada na Cultura Maker e no Pensamento Computacional.
+Após uma revisão dialogada dos principais conceitos envolvendo vírus, bactérias, fungos, transmissão, prevenção e tratamento das doenças infecciosas, os estudantes constroem, em grupos, uma versão física e eletrônica do jogo Operação, programando um microcontrolador para transformar o brinquedo em um recurso didático interativo.
+Ao final do projeto, as equipes utilizam o próprio jogo para investigar casos clínicos, interpretar pistas, identificar o agente infeccioso e justificar suas respostas utilizando conhecimentos científicos.
+As cartas de casos clínicos, pistas, respostas e regras já fazem parte do material do projeto, permitindo que a maior parte do tempo seja dedicada à construção do jogo e ao desenvolvimento das habilidades tecnológicas.
